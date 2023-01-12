@@ -1,0 +1,12 @@
+ru\krylov\beans\Patient.class
+ru\krylov\dao\PatientDAO.class
+ru\krylov\dao\PolisDAO.class
+ru\krylov\bl\Util.class
+ru\krylov\dao\PolisDAO$SQLPolis.class
+ru\krylov\dao\DAO.class
+ru\krylov\service\ServiceClass.class
+ru\krylov\beans\Polis.class
+ru\krylov\dao\PatientDAO$SQLPatient.class
+ru\krylov\MainController.class
+ru\krylov\MainClass.class
+ru\krylov\service\ServletServiceClass.class
